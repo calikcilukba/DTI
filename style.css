@@ -1,0 +1,14 @@
+body {
+    background-image: url("assets/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    position: absolute;
+}
+
+#part-top {
+    background-color: red;
+    /* size: 100px; */
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
